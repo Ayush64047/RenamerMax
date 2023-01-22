@@ -41,8 +41,8 @@ async def start(client, message):
     button=InlineKeyboardMarkup([[
         InlineKeyboardButton("👼 𝙳𝙴𝚅𝚂 👼", callback_data='dev')
         ],[
-        InlineKeyboardButton('📢 𝚄𝙿𝙳𝙰𝚃𝙴𝚂', url='https://t.me/LazyDeveloper'),
-        InlineKeyboardButton('🍂 𝚂𝚄𝙿𝙿𝙾𝚁𝚃', url='https://t.me/LazyPrincessSupport')
+        InlineKeyboardButton('📢 𝚄𝙿𝙳𝙰𝚃𝙴𝚂', url='https://t.me/z_harbour'),
+        InlineKeyboardButton('🍿24×7 Movies🍿', url='https://t.me/blackest_harbour')
         ],[
         InlineKeyboardButton('🍃 𝙰𝙱𝙾𝚄𝚃', callback_data='about'),
         InlineKeyboardButton('ℹ️ 𝙷𝙴𝙻𝙿', callback_data='help')
@@ -90,8 +90,8 @@ async def cb_handler(client, query: CallbackQuery):
             reply_markup=InlineKeyboardMarkup( [[
                 InlineKeyboardButton("👼 𝙳𝙴𝚅𝚂 👼", callback_data='dev')                
                 ],[
-                InlineKeyboardButton('📢 𝚄𝙿𝙳𝙰𝚃𝙴𝚂', url='https://t.me/LazyDeveloper'),
-                InlineKeyboardButton('🍂 𝚂𝚄𝙿𝙿𝙾𝚁𝚃', url='https://t.me/LazyPrincessSupport')
+                InlineKeyboardButton('📢 𝚄𝙿𝙳𝙰𝚃𝙴𝚂', url='https://t.me/mdisk_bots'),
+                InlineKeyboardButton('🍿24×7 Series🍿', url='https://t.me/z_harbour_files')
                 ],[
                 InlineKeyboardButton('🍃 𝙰𝙱𝙾𝚄𝚃', callback_data='about'),
                 InlineKeyboardButton('ℹ️ 𝙷𝙴𝙻𝙿', callback_data='help')
@@ -103,9 +103,9 @@ async def cb_handler(client, query: CallbackQuery):
             text=mr.HELP_TXT,
             reply_markup=InlineKeyboardMarkup( [[
                #⚠️ don't change source code & source link ⚠️ #
-               InlineKeyboardButton("❣️ 𝚂𝙾𝚄𝚁𝙲𝙴", url="https://github.com/LazyDeveloperr/Lazy-Renamer-u-Pro-max")
+               InlineKeyboardButton("Mdisk_BOT", url="https://t.me/Mdisk_Link_Downloader_Bot")
                ],[
-               InlineKeyboardButton("❤️‍🔥 𝙷𝙾𝚆 𝚃𝙾 𝚄𝚂𝙴  ❤️‍🔥", url='https://youtu.be/BiC66uFJsio')
+               InlineKeyboardButton("❤️‍🔥Telegraph Bot❤️‍🔥", url='MdiskLinksSearchBot')
                ],[
                InlineKeyboardButton("🔒 𝙲𝙻𝙾𝚂𝙴", callback_data = "close"),
                InlineKeyboardButton("◀️ 𝙱𝙰𝙲𝙺", callback_data = "start")
@@ -118,9 +118,9 @@ async def cb_handler(client, query: CallbackQuery):
             disable_web_page_preview = True,
             reply_markup=InlineKeyboardMarkup( [[
                #⚠️ don't change source code & source link ⚠️ #
-               InlineKeyboardButton("❣️ 𝚂𝙾𝚄𝚁𝙲𝙴", url="https://github.com/LazyDeveloperr/Lazy-Renamer-u-Pro-max")
+               InlineKeyboardButton("❣️Updates", url="")
                ],[
-               InlineKeyboardButton("🖥️ 𝙷𝙾𝚆 𝚃𝙾 𝙼𝙰𝙺𝙴", url="https://www.youtube.com/channel/UCY-iDra0x2hdd9PdHKcZkRw")
+               InlineKeyboardButton("🍿Movies🍿", url="https://t.me/z_harbour")
                ],[
                InlineKeyboardButton("🔒 𝙲𝙻𝙾𝚂𝙴", callback_data = "close"),
                InlineKeyboardButton("◀️ 𝙱𝙰𝙲𝙺", callback_data = "start")
@@ -132,9 +132,9 @@ async def cb_handler(client, query: CallbackQuery):
             text=mr.DEV_TXT,
             reply_markup=InlineKeyboardMarkup( [[
                #⚠️ don't change source code & source link ⚠️ #
-               InlineKeyboardButton("❣️ 𝚂𝙾𝚄𝚁𝙲𝙴", url="https://github.com/LazyDeveloperr/Lazy-Renamer-u-Pro-max")
+               InlineKeyboardButton("📁Search", url="https://t.me/z_harbour_files")
                ],[
-               InlineKeyboardButton("🖥️ 𝙷𝙾𝚆 𝚃𝙾 𝙼𝙰𝙺𝙴", url="https://www.youtube.com/channel/UCY-iDra0x2hdd9PdHKcZkRw")
+               InlineKeyboardButton("🔗Search 𝙷𝙾𝚆 𝚃𝙾 𝙼𝙰𝙺𝙴", url="https://t.me/z_harbour")
                ],[
                InlineKeyboardButton("🔒 𝙲𝙻𝙾𝚂𝙴", callback_data = "close"),
                InlineKeyboardButton("◀️ 𝙱𝙰𝙲𝙺", callback_data = "start")
