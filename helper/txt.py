@@ -26,7 +26,7 @@ License Link : https://github.com/TEAM-PYRO-BOTZ/PYRO-RENAME-BOT/blob/main/LICEN
 
 class mr(object):
     PROGRESS_BAR = """\n
-╭━━━━❰ Lazy Progress BAR ❱━➣
+╭━━━━❰ Your Progress Status ❱━➣
 ┣⪼ 🗂️ : {1} | {2}
 ┣⪼ ⏳️ : {0}%
 ┣⪼ 🚀 : {3}/s
@@ -36,13 +36,13 @@ class mr(object):
     ABOUT_TXT = """
 ╭───────────⍟
 ├🤖 𝙼𝚈 𝙽𝙰𝙼𝙴 : {}
-├👑 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 : <a href=https://t.me/LazyDeveloper>LazyDeveloper</a> 
-├👨‍💻 𝙿𝚁𝙾𝙶𝚁𝙰𝙼𝙴𝚁 : <a href=https://github.com/LazyDeveloper>LazyDeveloper</a>
+├🍿 𝙳𝙴𝚅🏘️: <a href=https://t.me/z_harbour>Home Channe</a> 
+├👨‍💻 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 : <a href=https://t.me/sigma_male_007>A.IDeveloper</a>
 ├📕 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 : <a href=https://github.com/pyrogram>𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼</a>
 ├✏️ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 : <a href=https://www.python.org>𝙿𝚈𝚃𝙷𝙾𝙽 3</a>
 ├💾 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴 : <a href=https://cloud.mongodb.com>𝙼𝙾𝙽𝙶𝙾 𝙳𝙱</a>
-├🌀 𝙼𝚈 𝚂𝙴𝚁𝚅𝙴𝚁1 : <a href=https://apps.koyeb.com>𝙷𝙴𝚁𝙾𝙺𝚄</a>
-├🌀 𝙼𝚈 𝚂𝙴𝚁𝚅𝙴𝚁2 : <a href=https://dashboard.heroku.com>KOYEB</a>
+├🌀 𝙼𝚈 𝚂𝙴𝚁𝚅𝙴𝚁1 : <a href=https://apps.koyeb.com>KOYEB</a>
+├🌀 𝙼𝚈 𝚂𝙴𝚁𝚅𝙴𝚁2 : <a href=https://dashboard.heroku.com>𝙷𝙴𝚁𝙾𝙺𝚄</a>
 ├📊 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚄𝚂 : v3.6.8               
 ╰───────────────⍟
                                 """
@@ -64,19 +64,12 @@ Example:- /set_caption 📕 File Name: {filename}
 
 ✏️ <b><u>HOW TO RENAME A FILE</u></b>
 •> send any file and click rename option and type new file name and \n send select [ document, video, audio ]👈 choice this.
-ℹ️ For more help:- <a href=https://t.me/LazyPrincessSupport>Support BOX</a>
+ℹ️ For more help:- <a href=https://t.me/sigma_male_007>ContactMe</a>
 """
 
-#⚠️ don't remove our credits 🙏😢😢
+#⚠️ remove our credits 🙏
     DEV_TXT = """
-<b><u>Special Thanks & Developers</b></u> 
+<b><u>Enjoy Renaming It's A Totally Free Service </b></u> 
 
-» 𝗦𝗢𝗨𝗥𝗖𝗘 𝗖𝗢𝗗𝗘 : <a href=https://github.com/LazyDeveloperr/Lazy-Renamer-u-Pro-max>Lazy Renamer u-Pro-max</a>
-» 𝗛𝗢𝗪 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬 : <a href=https://youtu.be/GfulqsSnTv4>Watch Tutorial</a>
 
-• 😈 <a href=https://github.com/LazyDeveloperr>LazyDeveloper Github</a>
-• 😈 <a href=https://t.me/LazyDeveloper>LazyDeveloper Tg Channel</a>
-• 😈 <a href=https://t.me/mRiderDM>LazyDeveloper Direct DM</a>
-• 😈 <a href=https://t.me/real_MoviesAdda1>Movies Adda</a>
-• 😈 <a href=https://t.me/GitHub_noob>Thanks- Github Noob</a>
 """
